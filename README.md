@@ -22,6 +22,7 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=ychuest&show_icons=true&theme=transparent" />
+<img src="https://github-profile-trophy.vercel.app/?username=ychuest&no-frame=true&no-bg=false&margin-w=4&row=2&column=3&rank=S,AAA,AA,A,B" />
 </picture>
 
 
