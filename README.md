@@ -26,7 +26,7 @@
 </picture> -->
 
 
-<table><tr><td valign="center" width="50%">
+<!-- <table><tr><td valign="center" width="50%">
 
   <picture>
     <source 
@@ -37,7 +37,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=ychuest&show_icons=true&theme=transparent"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=ychuest&show_icons=true&theme=transparent" align="left" style="width: 100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ychuest&show_icons=true&theme=transparent" />
   </picture>
 
 
@@ -46,4 +46,29 @@
 <img src="https://github-profile-trophy.vercel.app/?username=ychuest&no-frame=true&no-bg=false&margin-w=4&row=2&column=3&rank=S,AAA,AA,A,B" align="left" style="width: 100%" />
 
 </td></tr></table>
+<br /> -->
+
+
+<table width="100%">
+  <tr>
+    <td valign="middle" style="width: 50%;">
+      <picture>
+        <source 
+          srcset="https://github-readme-stats.vercel.app/api?username=ychuest&show_icons=True&theme=transparent"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=ychuest&show_icons=true&theme=transparent"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=ychuest&show_icons=true&theme=transparent" 
+          style="width: 100%; height: auto; display: block;" />
+      </picture>
+    </td>
+    <td valign="middle" style="width: 50%;">
+      <img 
+        src="https://github-profile-trophy.vercel.app/?username=ychuest&no-frame=true&no-bg=false&margin-w=4&row=2&column=3&rank=S,AAA,AA,A,B" 
+        style="width: 100%; height: auto; display: block;" />
+    </td>
+  </tr>
+</table>
 <br />
