@@ -6,7 +6,7 @@
 
 🎓 Previously I'm studying in Hunan University of Science and Technology, under the supervision of [Prof. Li Peng](https://faculty.hnust.edu.cn/pubtphp/jsjkxygcxy/1050047/chinese/)
 
-🤔 My research interest mainly focuses on the Bioinformatics and LLMs.
+🤔 My current main work consists of two aspects: one is research on LLMs in bioinformatics, and the other is video structural design.
 
 <!-- 🎃 [[Personal Page]](https://ychuest.github.io/) \|
 📫[[Google Scholar]](https://scholar.google.co.id/citations?user=jFUKS0oAAAAJ&hl=no) \|
