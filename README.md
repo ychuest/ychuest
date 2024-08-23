@@ -51,7 +51,7 @@
 
 <table width="100%">
   <tr>
-    <td valign="middle" style="width: 50%;">
+    <td valign="middle" style="width: 45%;">
       <picture>
         <source 
           srcset="https://github-readme-stats.vercel.app/api?username=ychuest&show_icons=True&theme=transparent"
@@ -64,7 +64,7 @@
           style="width: 100%; height: auto; display: block;" />
       </picture>
     </td>
-    <td valign="middle" style="width: 50%;">
+    <td valign="middle" style="width: 55%;">
       <img 
         src="https://github-profile-trophy.vercel.app/?username=ychuest&no-frame=true&no-bg=false&margin-w=4&row=2&column=3&rank=S,AAA,AA,A,B" 
         style="width: 100%; height: auto; display: block;" />
