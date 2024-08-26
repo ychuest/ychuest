@@ -62,6 +62,6 @@
 <br />
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor counts<br>
   <img src="https://profile-counter.glitch.me/ychuest/count.svg" />
 </p>
