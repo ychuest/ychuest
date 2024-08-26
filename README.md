@@ -13,9 +13,8 @@
 
 🤔 My current main work consists of two aspects: one is research on LLMs in bioinformatics, and the other is video structural design.
 
-<!-- 🎃 [[Personal Page]](https://ychuest.github.io/) \|
-📫[[Google Scholar]](https://scholar.google.co.id/citations?user=jFUKS0oAAAAJ&hl=no) \|
-💬[[Semantic Scholar]](https://www.semanticscholar.org/author/Xinyin-Ma/15532066) -->
+🎃 [[Personal Page]](https://ychuest.github.io/) \|
+💬[[Semantic Scholar]](https://www.semanticscholar.org/author/Cheng-Yang/2289597409)
 
 <!-- <table width="100%">
   <tr>
