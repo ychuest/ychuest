@@ -2,7 +2,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/MontaEllis/count.svg" />
+  <img src="https://profile-counter.glitch.me/ychuest/count.svg" />
 </p>
 
 #### I'm ✨ Cheng Yang (杨城)✨ 
