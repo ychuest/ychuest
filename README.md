@@ -1,10 +1,5 @@
 ### Hi there 👋 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ychuest/count.svg" />
-</p>
-
 #### I'm ✨ Cheng Yang (杨城)✨ 
 
 <!-- 🌱 I’m currently learning at [NUS LV lab](http://www.lv-nus.org), under the supervision of [Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang/) -->
@@ -65,3 +60,8 @@
   </tr>
 </table>
 <br />
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ychuest/count.svg" />
+</p>
