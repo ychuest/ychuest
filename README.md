@@ -9,7 +9,7 @@
 
 <!-- 🌱 I’m currently learning at [NUS LV lab](http://www.lv-nus.org), under the supervision of [Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang/) -->
 
-🎓 Previously I'm studying in Hunan University of Science and Technology, under the supervision of [Prof. Li Peng](https://faculty.hnust.edu.cn/pubtphp/jsjkxygcxy/1050047/chinese/)
+🎓 Previously I'm studying in Hunan University of Science and Technology, under the supervision of [Prof. Li Peng](https://faculty.hnust.edu.cn/pubtphp/jsjkxygcxy/1050047/chinese/).
 
 🤔 My current main work consists of two aspects: one is research on LLMs in bioinformatics, and the other is video structural design.
 
