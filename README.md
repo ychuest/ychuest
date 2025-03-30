@@ -12,6 +12,7 @@
 
 🎃 [[Personal Page]](https://ychuest.github.io/) \|
 💬[[Semantic Scholar]](https://www.semanticscholar.org/author/Cheng-Yang/2289597409)
+📧[[e-mail]](yangcheng24@nudt.edu.cn)
 
 <!-- <table width="100%">
   <tr>
